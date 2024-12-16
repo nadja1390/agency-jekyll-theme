@@ -3,37 +3,36 @@ baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Agua Sabia
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: nadjadenbesten@gmail.com
+description: "Expert Assesment and
+Consultancy for Hydrological
+Impact Analysis using Space and
+Ground-based measurements."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Nadja den Besten
   pic: 1
-  position: Lead Designer
+  position: Water Scientist
   social:
-    - title: twitter
+    - title: linkedin
+      url: https://www.linkedin.com/in/nadja-den-besten-46621025/
+    - title: stack-overflow
       url: #
-    - title: facebook
+
+- name: Iñaki Cabo Ibarzabal
+  pic: 2
+  position: Environmental Educator
+  social:
+    - title: linkedin
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
+- name: Cueva and Leo
   pic: 3
-  position: Lead Developer
+  position: Happiness Officers
   social:
     - title: twitter
       url: #
@@ -43,17 +42,17 @@ people:
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
