@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Water Security in Asturias
+subtitle: A community project in Bimenes
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2024-12-18
+img: dreams.jpg
+thumbnail: dreams-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: January 2025
+client: Local water authority
+category: Quantitative and qualitative hydrological catchment evaluation
+description: In our municipality water is managed by a group of neighbours. However, nobody is aware of the quality and quantatiy available in our catchment. Together with the University of Oviedo we are researching our catchment to secure the quality and availability of our catchment now and in the future.
 
 ---
