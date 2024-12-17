@@ -4,8 +4,8 @@ subtitle: A community project in Bimenes
 layout: default
 modal-id: 1
 date: 2024-12-18
-img: dreams.jpg
-thumbnail: dreams-thumbnail.jpg
+img: dreams.png
+thumbnail: dreams.png
 alt: image-alt
 project-date: January 2025
 client: Local water authority
