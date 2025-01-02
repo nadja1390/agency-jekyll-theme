@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Futureproof Water Resources in Peña Mayor
+subtitle: Consultancy to our own local water board
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2025
+client: Local Water Authority
+category: Hydrological consultancy
+description: Our water resources are managed in a cooperation of neighbors, something very common in rural Spain. However, the water quality needs to be monitored and the size of the aquifer needs to be evaluated. This, to safeguard the water use for future generations and encourage local sustainable water management in Asturias.
 
 ---

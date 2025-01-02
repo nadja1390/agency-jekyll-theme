@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Monitoring Waterlogging from Space
+subtitle: Observations from an irrigated sugarcane plantation
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2023
+client: TU Delft
+category: PhD dissertation
+description: From April 2019 to May 2023 I worked on a PhD dissertation to unravel how to monitor waterlogging in agriculture from space and understand the impact on soil health and crop productivity. This led to a four peer reviewed articles and <a href="https://pure.tudelft.nl/ws/portalfiles/portal/150384414/dissertation_den_besten.pdf">a dissertation</a> supervised by Dr. Richard de Jeu, Prof. Susan Steele-Dunne, and Prof. Pieter van der Zaag.
 
 ---

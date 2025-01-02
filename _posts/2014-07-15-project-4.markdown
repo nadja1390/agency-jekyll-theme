@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Satellite data for Regenerative Agriculture
+subtitle: A challenge posed by Deloitte and Planet
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2024
+client: Deloitte and Planet
+category: Satellite data for Regenerative Agriculture
+description: During my time at Planet I tried to encourage the use of satellite data products for Regenerative Agricultural Management. We organized a challenge with Deloitte to ask participants to participate in a journey to use Planet´s data to help farmers in the process of applying Regenerative Agricultural Management and quanitfy the impact. The organization ClimateFarmers became the winner with their prototype platform to help farmers on their journey towards Regenerative Agriculture Management. More information can be found <a href="https://gravitychallenge.space/gravity-06">here.</a>
 
 ---
