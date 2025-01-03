@@ -1,0 +1,15 @@
+---
+title: Irrigation from space
+subtitle: A VICE documentary
+layout: default
+modal-id: 6
+date: 2021-01-18
+img: Captura.png
+thumbnail: Captura-thumbnail.png
+alt: image-alt
+project-date: 2021
+client: VICE
+category: Short Documentary
+description: A team of VICE documentary makers made <a href=" https://www.youtube.com/watch?v=CnDAPJTwEmA">a short documentary</a> about VanderSat where they created a story around a project we were leading in Mozambique. This project had the aim to optimize water productivity for an irrigated sugarcane plantation near the Capital Maputo. The sugarcane plantation uses ten times the amount of water all households in Maputo use in one year. We were trying to understand their production issues and finding ways to help assist the irrigation practices with remote sensing technologies.
+
+---
