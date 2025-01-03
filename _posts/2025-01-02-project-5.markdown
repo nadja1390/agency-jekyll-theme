@@ -4,12 +4,12 @@ subtitle: Consultancy to our own local water board
 layout: default
 modal-id: 5
 date: 2025-01-02
-img: startup-framework.png
+img: penamayor.jpg
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: 2025
 client: Local Water Authority
 category: Hydrological consultancy
-description: Our water resources are managed in a cooperation of neighbors, something very common in rural Spain. However, the water quality needs to be monitored and the size of the aquifer needs to be evaluated. This, to safeguard the water use for future generations and encourage local sustainable water management in Asturias.
+description: Our water resources are managed in a cooperation of neighbors, something very common in rural Spain. However, the water quality needs to be monitored and the size of the aquifer needs to be evaluated. This, to safeguard the water use for future generations and encourage local sustainable water management in Asturias. We have taken up the role to map and understand our aquifer, in order to understand its dynamics and size.
 
 ---
