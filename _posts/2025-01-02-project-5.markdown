@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2025-01-02
 img: penamayor.jpg
-thumbnail: startup-framework-thumbnail.png
+thumbnail: arroyo_la_real.png
 alt: image-alt
 project-date: 2025
 client: Local Water Authority
