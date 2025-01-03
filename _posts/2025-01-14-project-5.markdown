@@ -3,7 +3,7 @@ title: Futureproof Water Resources in Peña Mayor
 subtitle: Consultancy to our own local water board
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2025-01-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

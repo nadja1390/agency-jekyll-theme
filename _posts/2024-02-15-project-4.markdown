@@ -3,7 +3,7 @@ title: Satellite data for Regenerative Agriculture
 subtitle: A challenge posed by Deloitte and Planet
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2024-02-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
