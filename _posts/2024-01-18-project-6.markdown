@@ -3,9 +3,9 @@ title: Irrigation from space
 subtitle: A VICE documentary
 layout: default
 modal-id: 6
-date: 2021-01-18
+date: 2024-01-18
 img: Captura.png
-thumbnail: Captura-thumbnail.png
+thumbnail: Captura.png
 alt: image-alt
 project-date: 2021
 client: VICE
