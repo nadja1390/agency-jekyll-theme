@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2024-01-18
 img: Captura.png
-thumbnail: food_forest_thumbnail.png
+thumbnail: vice_thumbnail.png
 alt: image-alt
 project-date: 2021
 client: VICE
