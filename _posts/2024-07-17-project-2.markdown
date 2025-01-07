@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2024-07-17
 img: escape.png
-thumbnail: yerbes_salvaxes.png
+thumbnail: food_forest_thumbnail.png
 alt: image-alt
 project-date: October 2023
 client: Nature

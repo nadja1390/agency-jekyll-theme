@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2024-02-15
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+thumbnail: food_forest_thumbnail.png
 alt: image-alt
 project-date: 2024
 client: Deloitte and Planet
