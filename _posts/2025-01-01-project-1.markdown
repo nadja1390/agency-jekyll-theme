@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2025-01-01
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: food_forest_thumbnail.png
 alt: image-alt
 project-date: 2025
 client: VoedselBosbouw Nederland
