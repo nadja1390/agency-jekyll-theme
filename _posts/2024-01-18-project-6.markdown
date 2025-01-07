@@ -4,7 +4,7 @@ subtitle: A VICE documentary
 layout: default
 modal-id: 6
 date: 2024-01-18
-img: Captura.png
+img: Captura-thumbnail.png
 thumbnail: vice_thumbnail.png
 alt: image-alt
 project-date: 2021
