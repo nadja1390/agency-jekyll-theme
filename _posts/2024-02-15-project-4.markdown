@@ -4,12 +4,12 @@ subtitle: A challenge posed by Deloitte and Planet
 layout: default
 modal-id: 4
 date: 2024-02-15
-img: treehouse.png
+img: regen_ag_thumbnail.png
 thumbnail: regen_ag_thumbnail.png
 alt: image-alt
 project-date: 2024
 client: Deloitte and Planet
 category: Satellite data for Regenerative Agriculture
-description: During my time at Planet I tried to encourage the use of satellite data products for Regenerative Agricultural Management. I researched how we could use our data for regenerative agricultural management. And we organized a challenge with Deloitte to ask participants to join a journey to use Planet´s data to help farmers in the process of applying Regenerative Agricultural Management and quanitfy the impact. The organization ClimateFarmers became the winner with their prototype platform to help farmers on their journey towards Regenerative Agriculture Management. More information can be found <a href="https://gravitychallenge.space/gravity-06">here.</a>
+description: During my time at Planet I tried to encourage the use of satellite data products for Regenerative Agricultural Management. I researched how we could use our data for regenerative agricultural management. And we organized a challenge with Deloitte to ask participants to join a journey to use Planet´s data to help farmers in the process of applying Regenerative Agricultural Management and quanitfy the impact. The organization ClimateFarmers became the winner with their prototype platform to help farmers on their journey towards Regenerative Agricultural Management. More information can be found <a href="https://gravitychallenge.space/gravity-06">here.</a>
 
 ---
