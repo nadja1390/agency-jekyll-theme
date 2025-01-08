@@ -4,8 +4,8 @@ subtitle: A personal project
 layout: default
 modal-id: 2
 date: 2024-07-17
-img: escape.png
-thumbnail: food_forest_thumbnail.png
+img: yerbes_salvaxes_thumbnail.png
+thumbnail: yerbes_salvaxes_thumbnail.png
 alt: image-alt
 project-date: October 2023
 client: Nature
