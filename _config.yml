@@ -18,17 +18,17 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/nadja-den-besten-46621025/
-    - title: stack-overflow
-      url: #
+    - title: google-scholar
+      url: https://scholar.google.com/citations?hl=es&user=tb__YJwAAAAJ
 
 - name: Iñaki Cabo Ibarzabal
   pic: 2
   position: Environmental Educator
-  social:
-    - title: linkedin
-      url: #
-    - title: stack-overflow
-      url: #
+  # social:
+  #   - title: linkedin
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
 
 - name: Cueva and Leo
   pic: 3
