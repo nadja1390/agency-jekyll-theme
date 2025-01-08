@@ -4,12 +4,12 @@ subtitle: Impact quantification
 layout: default
 modal-id: 1
 date: 2025-01-01
-img: roundicons.png
+img: food-forest-guide.png
 thumbnail: food_forest_thumbnail.png
 alt: image-alt
 project-date: 2025
 client: VoedselBosbouw Nederland
 category: Hydrological impact measurement
-description: Together with VoedselBosbouw Nederland we are applying for funding to research the (hydrological) impact of Food Forests in the Netherlands. This, to continue the work of the National Monitor Programme and help proliferate the Food Forest movement in the Netherlands.
+description: Together with VoedselBosbouw Nederland, we are applying for funding to research the hydrological impact of Food Forests in the Netherlands. This is intended to continue the work of the National Monitor Programme and support the growth of the Food Forest movement in the Netherlands and elsewhere.
 
 ---

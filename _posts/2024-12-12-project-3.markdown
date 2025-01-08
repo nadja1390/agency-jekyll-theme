@@ -4,12 +4,12 @@ subtitle: Observations from an irrigated sugarcane plantation
 layout: default
 modal-id: 3
 date: 2024-12-12
-img: golden.png
+img: remotesensing.png
 thumbnail: thesis.png
 alt: image-alt
 project-date: 2023
 client: TU Delft
 category: PhD dissertation
-description: From April 2019 to May 2023 I worked on a PhD dissertation to unravel how to monitor waterlogging in agriculture from space and understand the impact on soil health and crop productivity. This led to a four peer reviewed articles and <a href="https://pure.tudelft.nl/ws/portalfiles/portal/150384414/dissertation_den_besten.pdf">a dissertation</a> supervised by Dr. Richard de Jeu, Prof. Susan Steele-Dunne, and Prof. Pieter van der Zaag.
+description: From April 2019 to May 2023, I worked on a PhD dissertation to explore how to monitor waterlogging in agriculture from space and to understand its impact on soil health and crop productivity. This journey resulted in a profound personal transformation, four peer-reviewed articles, and <a href="https://pure.tudelft.nl/ws/portalfiles/portal/150384414/dissertation_den_besten.pdf">a dissertation</a> supervised by Dr. Richard de Jeu, Prof. Susan Steele-Dunne, and Prof. Pieter van der Zaag.
 
 ---

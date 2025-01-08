@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2025
 client: Local Water Authority
 category: Hydrological consultancy
-description: Our water resources are managed in a cooperation of neighbors, something very common in rural Spain. However, the water quality needs to be monitored and the size of the aquifer needs to be evaluated. This, to safeguard the water use for future generations and encourage local sustainable water management in Asturias. We have taken up the role to map and understand our aquifer, in order to understand its dynamics and size.
+description: Our local water resources are managed in cooperation with neighbors, a practice that is very common in rural Spain. However, the water quality needs to be monitored, and the size of the aquifer needs to be evaluated. This is essential to safeguard water use for future generations and to encourage sustainable local water management in Asturias. We have taken on the role of mapping and understanding our springs and aquifer to better comprehend their dynamics, size, and quality.
 
 ---
