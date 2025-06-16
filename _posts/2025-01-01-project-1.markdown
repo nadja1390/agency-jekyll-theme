@@ -1,15 +1,15 @@
 ---
-title: Hydrological impact of Food Forests
-subtitle: Impact quantification
+title: Regenerative almond production
+subtitle: Water use quantification
 layout: default
 modal-id: 1
 date: 2025-01-01
-img: food-forest-guide.png
+img: almonds.png
 thumbnail: food_forest_thumbnail.png
 alt: image-alt
 project-date: 2025
-client: VoedselBosbouw Nederland
+client: Verrio
 category: Hydrological impact measurement
-description: Together with VoedselBosbouw Nederland, we are applying for funding to research the hydrological impact of Food Forests in the Netherlands. This is intended to continue the work of the National Monitor Programme and support the growth of the Food Forest movement in the Netherlands and elsewhere.
+description: Together with Verrio we are looking at how to improve the on-farm resilience of almond producers on the Iberian Peninsula. In the last decade there has been a vast increase in irrigated orchard plantations. With increasing drought and expected increase of erratic rainfall patterns, we are working together with farmers and local institutes to improve the water use of almond producers and apply regenerative agricultural management.
 
 ---
