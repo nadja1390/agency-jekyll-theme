@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2025-01-01
 img: almonds.jpeg
-thumbnail: almonds_thumbnail_400x225.jpeg
+thumbnail: almonds_thumbnail_380x214.jpeg
 alt: image-alt
 project-date: 2025
 client: Verrio
