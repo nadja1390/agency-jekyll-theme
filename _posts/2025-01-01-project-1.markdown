@@ -4,12 +4,12 @@ subtitle: Water use quantification
 layout: default
 modal-id: 1
 date: 2025-01-01
-img: almonds.png
-thumbnail: food_forest_thumbnail.png
+img: almonds.jpeg
+thumbnail: almonds_thumbnail.jpeg
 alt: image-alt
 project-date: 2025
 client: Verrio
 category: Hydrological impact measurement
-description: Together with Verrio we are looking at how to improve the on-farm resilience of almond producers on the Iberian Peninsula. In the last decade there has been a vast increase in irrigated orchard plantations. With increasing drought and expected increase of erratic rainfall patterns, we are working together with farmers and local institutes to improve the water use of almond producers and apply regenerative agricultural management.
+description: Together with <a href="https://verrio.co/">Verrio</a> we are looking at how to improve the on-farm resilience of almond producers on the Iberian Peninsula. In the last decade there has been a huge increase in irrigated almond plantations. With increasing drought and the expected rise in erratic rainfall patterns, we are working with farmers and local institutions to improve water use among almond producers and implement regenerative agricultural practices to enhance on-farm resilience.
 
 ---
