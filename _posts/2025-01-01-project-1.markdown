@@ -1,15 +1,15 @@
 ---
-title: Regenerative almond production
+title: Resilient almond production
 subtitle: Water use quantification
 layout: default
 modal-id: 1
 date: 2025-01-01
 img: almonds.jpeg
-thumbnail: almonds_thumbnail.jpeg
+thumbnail: almonds_thumbnail_400x225.jpeg
 alt: image-alt
 project-date: 2025
 client: Verrio
 category: Hydrological impact measurement
-description: Together with <a href="https://verrio.co/">Verrio</a> we are looking at how to improve the on-farm resilience of almond producers on the Iberian Peninsula. In the last decade there has been a huge increase in irrigated almond plantations. With increasing drought and the expected rise in erratic rainfall patterns, we are working with farmers and local institutions to improve water use among almond producers and implement regenerative agricultural practices to enhance on-farm resilience.
+description: Together with <a href="https://verrio.co/">Verrio</a> we are looking at how to improve the on-farm resilience of almond producers on the Iberian Peninsula. In the last decade there has been a huge increase in irrigated almond plantations. With increasing drought and the expected rise in erratic rainfall patterns, we are working with farmers and local institutions to improve water use among almond producers. We do this by calculating the impact of on-farm resilience by implementing regenerative agricultural practices with the help of satellite and ground data.
 
 ---
